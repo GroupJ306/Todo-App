@@ -38,12 +38,12 @@ Instructions for new contributors:
 - Olayemi Oluwatoberu Joel LCU/UG/22/21469 Computer Science
 - Akinyemi Enoch Boluwatife
 Computer with information science
-- Umar Aisha Bintu
-- Computer Science Education
-- Azeez Rahmon Gbolahan
-- Computer Science Education
-- Jamal Balogun Olawale LCU/UG/21/19560
-Computer Science
+- Umar Aisha Bintu Computer Science Education
+- Azeez Rahmon Gbolahan  Computer Science Education
+- Jamal Balogun Olawale LCU/UG/21/19560 Computer Science
+- Winston Adejumo 
+LCU/UG/21/19716
+Computer science
 <!-- New contributors: Add your name above this line -->
 
 ## 📝 How to Contribute
