@@ -41,9 +41,7 @@ Computer with information science
 - Umar Aisha Bintu Computer Science Education
 - Azeez Rahmon Gbolahan  Computer Science Education
 - Jamal Balogun Olawale LCU/UG/21/19560 Computer Science
-- Winston Adejumo 
-LCU/UG/21/19716
-Computer science
+- Winston Adejumo  LCU/UG/21/19716 Computer science
 Ekpenuma Daniel Lcu/ug/22/22564 Computer science
 <!-- New contributors: Add your name above this line -->
 
