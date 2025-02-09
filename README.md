@@ -35,6 +35,7 @@ Instructions for new contributors:
 
 ### Contributors
 - jamalbalo22@gmail.com
+- Olayemi Oluwatoberu Joel LCU/UG/22/21469 Computer Science
 - Akinyemi Enoch Boluwatife
 Computer with information science
 - Umar Aisha Bintu
